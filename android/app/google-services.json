@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466691223875",
+    "project_id": "abu-election",
+    "storage_bucket": "abu-election.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466691223875:android:bb9c329d54bf289ca57ff6",
+        "android_client_info": {
+          "package_name": "com.example.abu_election"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgHqDSjku4AKps1tZhXmwmHIHwZ5bCYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
